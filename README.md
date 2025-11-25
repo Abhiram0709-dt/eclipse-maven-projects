@@ -1,3 +1,4 @@
+"C:\Users\Abhiram\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin\java.exe" -jar C:\Users\Abhiram\OneDrive\Downloads\jenkins.war
 required plugins are :
 copy artifacts to send all files **/* in first mavenjava job
 Build Pipeline plugin for viewing the pipeling
