@@ -5,7 +5,7 @@ for script:
 pipeline {
     agent any
     tools {
-        maven 'MAVEN_HOME'
+        maven 'MAVEN'
     }
     stages {
         stage('Git Checkout') {
